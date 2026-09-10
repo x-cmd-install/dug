@@ -7,7 +7,7 @@ about:
   latestVersion: "0.0.94"
   latestRelease: "0.0.94"
   latestPrerelease: "0.0.84"
-  collectedAt: 2026-09-10T04:55:55Z
+  collectedAt: 2026-09-10T16:43:02Z
 timeline:
   created: 2020-12-04
   lastCommit: 2026-01-11
@@ -87,7 +87,7 @@ total:
   commit: 299
 ---
 path: /home/runner/.x-repo/github.com/unfrl/dug
-collectedAt: 2026-09-10T04:55:56Z
+collectedAt: 2026-09-10T16:43:03Z
 loc:
   Json:
     code: 16433
