@@ -12,6 +12,18 @@ A global DNS propagation checker that gives pretty output. Written in dotnet cor
 x install dug
 ```
 
+## Code insight
+
+Total: **23,575** lines of code across **52** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 16,433 | 0 | 1 | 2 |
+| CSharp | 3,118 | 102 | 367 | 32 |
+| Svg | 2,413 | 5 | 23 | 11 |
+| DotNetResource | 1,145 | 118 | 0 | 3 |
+| JavaScript | 199 | 3 | 4 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/unfrl/dug>
@@ -22,6 +34,25 @@ x install dug
 - **Latest**: `0.0.94` (2024-10-07)
 - **Last commit**: 2026-01-11
 - **Assets in release**: 10
+
+## Popularity
+
+- **Stars**: 371 · **Forks**: 7 · **Open issues**: 36 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 31 · **Merged PRs**: 15 · **Open PRs**: 0 · **Closed issues**: 23 · **Open issues**: 13 · **Commits**: 299
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 11 |
+| last720d | 2024-09-20 | 2 | 1 | 0 | 5 | 0 | 14 |
 
 ## Release assets
 
@@ -38,33 +69,13 @@ x install dug
 | [dug.0.0.94.osx-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.osx-x64.tar.gz) | 30.5 MiB | `native/darwin/x64` |
 | [dug.exe](https://github.com/unfrl/dug/releases/download/0.0.94/dug.exe) | 61.9 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 371 · **Forks**: 7 · **Open issues**: 36 · **Contributors**: 2
+Reported by **4** distros on [repology.org](https://repology.org/project/dug). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 31 · **Merged PRs**: 15 · **Open PRs**: 0 · **Closed issues**: 23 · **Open issues**: 13 · **Commits**: 299
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 11 |
-
-## Code size
-
-Total: **23,575** lines of code across **52** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 16,433 | 0 | 1 | 2 |
-| CSharp | 3,118 | 102 | 367 | 32 |
-| Svg | 2,413 | 5 | 23 | 11 |
-| DotNetResource | 1,145 | 118 | 0 | 3 |
-| JavaScript | 199 | 3 | 4 | 4 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.0.100` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -75,4 +86,4 @@ Install metadata for dug lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:43:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:53:33Z._
