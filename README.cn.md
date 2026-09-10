@@ -4,7 +4,7 @@
 
 A global DNS propagation checker that gives pretty output. Written in dotnet core
 
-![dug](https://repo.x-cmd.io/dug.svg)
+![dug](https://repo.x-cmd.io/dug.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,21 @@ x install dug
 - **最新版本**: `0.0.94` (2024-10-07)
 - **最近提交**: 2026-01-11
 - **Release 含资产**: 10 个
-- **发布时间**: 2024-10-07T04:01:27Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dug-linux-arm64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-arm64) | 72.8 MiB | `native/linux/arm64` |
+| [dug-linux-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-x64) | 65.5 MiB | `other` |
+| [dug-osx-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-osx-x64) | 63.6 MiB | `native/darwin/x64` |
+| [dug.0.0.94.linux-arm64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-arm64.deb) | 19.9 MiB | `native/linux/arm64` |
+| [dug.0.0.94.linux-x64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.deb) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.rpm](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.rpm) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.tar.gz) | 31.0 MiB | `native/unknown` |
+| [dug.0.0.94.nupkg](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.nupkg) | 27.8 MiB | `other` |
+| [dug.0.0.94.osx-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.osx-x64.tar.gz) | 30.5 MiB | `native/darwin/x64` |
+| [dug.exe](https://github.com/unfrl/dug/releases/download/0.0.94/dug.exe) | 61.9 MiB | `other` |
 
 ## 流行度
 
@@ -61,4 +75,4 @@ dug 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:56:00Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:43:09Z._

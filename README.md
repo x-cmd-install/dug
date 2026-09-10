@@ -22,7 +22,21 @@ x install dug
 - **Latest**: `0.0.94` (2024-10-07)
 - **Last commit**: 2026-01-11
 - **Assets in release**: 10
-- **Published**: 2024-10-07T04:01:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dug-linux-arm64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-arm64) | 72.8 MiB | `native/linux/arm64` |
+| [dug-linux-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-x64) | 65.5 MiB | `other` |
+| [dug-osx-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-osx-x64) | 63.6 MiB | `native/darwin/x64` |
+| [dug.0.0.94.linux-arm64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-arm64.deb) | 19.9 MiB | `native/linux/arm64` |
+| [dug.0.0.94.linux-x64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.deb) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.rpm](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.rpm) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.tar.gz) | 31.0 MiB | `native/unknown` |
+| [dug.0.0.94.nupkg](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.nupkg) | 27.8 MiB | `other` |
+| [dug.0.0.94.osx-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.osx-x64.tar.gz) | 30.5 MiB | `native/darwin/x64` |
+| [dug.exe](https://github.com/unfrl/dug/releases/download/0.0.94/dug.exe) | 61.9 MiB | `other` |
 
 ## Popularity
 
@@ -57,8 +71,8 @@ Total: **23,575** lines of code across **52** files in the top 5 languages.
 Install metadata for dug lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dug` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dug.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dug.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:56:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:43:09Z._
