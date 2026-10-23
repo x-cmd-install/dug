@@ -1,0 +1,38 @@
+- repo: aur
+  srcname: dug-bin
+  binname: dug-bin
+  visiblename: dug-bin
+  version: "20250812"
+  origversion: 20250812-1
+  status: newest
+  summary: Extensible DNS libraries written purely in Haskell
+  maintainers:
+    - haxibami@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: dug-git
+  binname: dug-git
+  visiblename: dug-git
+  version: r296.bbdbe3f
+  origversion: r296.bbdbe3f-1
+  status: rolling
+  summary: A global DNS propagation checker that gives pretty output.
+  maintainers:
+    - neurotischism@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: dug
+  visiblename: dug
+  version: 0.0.94
+  origversion: null
+  status: outdated
+  summary: A global DNS propagation checker that gives pretty output.
+- repo: homebrew
+  srcname: dug
+  visiblename: dug
+  version: 0.0.100
+  origversion: null
+  status: outdated
+  summary: Global DNS propagation checker that gives pretty output
