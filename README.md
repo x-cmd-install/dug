@@ -33,6 +33,7 @@ Total: **23,575** lines of code across **52** files in the top 5 languages.
 
 - **Latest**: `0.0.94` (2024-10-07)
 - **Last commit**: 2026-01-11
+- **Assets in release**: 10
 
 ## Popularity
 
@@ -46,12 +47,27 @@ Total: **23,575** lines of code across **52** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 0 | 0 | 0 | 11 |
-| last720d | 2024-11-11 | 0 | 0 | 0 | 1 | 0 | 11 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 0 | 0 | 0 | 11 |
+| last720d | 2024-11-12 | 0 | 0 | 0 | 1 | 0 | 11 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dug-linux-arm64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-arm64) | 72.8 MiB | `native/linux/arm64` |
+| [dug-linux-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-x64) | 65.5 MiB | `other` |
+| [dug-osx-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-osx-x64) | 63.6 MiB | `native/darwin/x64` |
+| [dug.0.0.94.linux-arm64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-arm64.deb) | 19.9 MiB | `native/linux/arm64` |
+| [dug.0.0.94.linux-x64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.deb) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.rpm](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.rpm) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.tar.gz) | 31.0 MiB | `native/unknown` |
+| [dug.0.0.94.nupkg](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.nupkg) | 27.8 MiB | `other` |
+| [dug.0.0.94.osx-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.osx-x64.tar.gz) | 30.5 MiB | `native/darwin/x64` |
+| [dug.exe](https://github.com/unfrl/dug/releases/download/0.0.94/dug.exe) | 61.9 MiB | `other` |
 
 ## Distribution status
 
@@ -70,4 +86,4 @@ Install metadata for dug lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:14:52Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:09:45Z._

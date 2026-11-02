@@ -33,6 +33,7 @@ x install dug
 
 - **最新版本**: `0.0.94` (2024-10-07)
 - **最近提交**: 2026-01-11
+- **Release 含资产**: 10 个
 
 ## 流行度
 
@@ -46,12 +47,27 @@ x install dug
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-06 | 0 | 0 | 0 | 0 | 0 | 11 |
-| last720d | 2024-11-11 | 0 | 0 | 0 | 1 | 0 | 11 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-07 | 0 | 0 | 0 | 0 | 0 | 11 |
+| last720d | 2024-11-12 | 0 | 0 | 0 | 1 | 0 | 11 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dug-linux-arm64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-arm64) | 72.8 MiB | `native/linux/arm64` |
+| [dug-linux-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-linux-x64) | 65.5 MiB | `other` |
+| [dug-osx-x64](https://github.com/unfrl/dug/releases/download/0.0.94/dug-osx-x64) | 63.6 MiB | `native/darwin/x64` |
+| [dug.0.0.94.linux-arm64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-arm64.deb) | 19.9 MiB | `native/linux/arm64` |
+| [dug.0.0.94.linux-x64.deb](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.deb) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.rpm](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.rpm) | 22.5 MiB | `other` |
+| [dug.0.0.94.linux-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.linux-x64.tar.gz) | 31.0 MiB | `native/unknown` |
+| [dug.0.0.94.nupkg](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.nupkg) | 27.8 MiB | `other` |
+| [dug.0.0.94.osx-x64.tar.gz](https://github.com/unfrl/dug/releases/download/0.0.94/dug.0.0.94.osx-x64.tar.gz) | 30.5 MiB | `native/darwin/x64` |
+| [dug.exe](https://github.com/unfrl/dug/releases/download/0.0.94/dug.exe) | 61.9 MiB | `other` |
 
 ## 发行版状态
 
@@ -70,4 +86,4 @@ dug 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T06:14:53Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T06:09:45Z._
